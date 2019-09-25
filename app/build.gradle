@@ -27,5 +27,8 @@ dependencies {
     implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
 //    implementation project(':kit')
 
-//    implementation 'com.github.letusplay.originKit:kit:d8a689acbd'
+//    implementation 'com.github.letusplay:originKit:8c6e4a1423'
+
+    implementation 'com.github.letusplay.origin-Kit:kit:8c6e4a1423'
+    implementation 'com.github.letusplay.origin-Kit:test:8c6e4a1423'
 }
